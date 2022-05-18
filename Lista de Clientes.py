@@ -6,7 +6,7 @@ preferencia_tamanho = ["Pequeno", "Grande", "Medio"]
 preferencia_tamanho.append("Medio")
 print(preferencia_tamanho)
 
-cliente_data = [["Any", "Pequeno", True], ["Benicio", "Grande", False], ["Charles", "Medio", True], ["Daphme", "Medio", False]]
+cliente_data = [["Any", "Pequeno", True], ["Benicio", "Grande", False], ["Charles", "Medio", True], ["Daphne", "Medio", False]]
 print(cliente_data)
 
 cliente_data[-2][-1] = False
